@@ -5,8 +5,8 @@ import pandas as pd
 
 st.sidebar.title('E-Bike Price Prediction')
 html_temp = """
-<div style="background-color:orange;padding:10px">
-<h2 style="color:white;text-align:center;">Coding Book ML Solutions</h2>
+<div style="background-color:red;padding:10px">
+<h2 style="color:yellow;text-align:center;">FİRST ML PREDİCTİON</h2>
 </div>"""
 st.markdown(html_temp, unsafe_allow_html=True)
 
